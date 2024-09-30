@@ -2,7 +2,7 @@
 
 ## Descripción:
 
-En el 1 punto nos daban una matriz y tres diferentes vectores, lo que tuvimos que realizar fue encontrar la probabilidad de la doble rendija y después simularlo en un programa de Python. 
+En el primer punto nos daban una matriz y tres diferentes vectores, lo que tuvimos que realizar fue encontrar la probabilidad de la doble rendija y después simularlo en un programa de Python. 
 
 En el segundo punto también tocaba encontrar un patrón con la probabilidad de la doble rendija, pero en este caso la matriz contaba con valores complejos.
 
